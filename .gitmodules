@@ -1,0 +1,3 @@
+[submodule "ModuleTest"]
+	path = ModuleTest
+	url = https://github.com/hinduCoder/ModuleTest.git
