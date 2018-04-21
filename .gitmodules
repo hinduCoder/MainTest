@@ -1,3 +1,6 @@
 [submodule "ModuleTest"]
 	path = ModuleTest
 	url = https://github.com/hinduCoder/ModuleTest.git
+[submodule "ModuleTest1"]
+	path = ModuleTest1
+	url = C:/Users/Антон/Desktop/GitTest/ModuleTest1
